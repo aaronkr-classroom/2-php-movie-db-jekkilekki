@@ -54,10 +54,10 @@ mysqli_close($db);
 
                 <nav data-role="navbar">
                     <ul>
-                        <li><a href="./insert.php">입력</a></li>
-                        <li><a href="./update_select.php">수정</a></li>
-                        <li><a href="./delete_select.php">삭제</a></li>
-                        <li><a href="./select_all.php" class="ui-btn-active">전체 조회</a></li>
+                        <li><a href="/webapp/insert.php">입력</a></li>
+                        <li><a href="/webapp/update_select.php">수정</a></li>
+                        <li><a href="/webapp/delete_select.php">삭제</a></li>
+                        <li><a href="/webapp/select_all.php" class="ui-btn-active">전체 조회</a></li>
                     </ul>
                 </nav>
 			</header>
